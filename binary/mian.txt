@@ -1,1 +1,1 @@
-10001100110110
+convert the 4 last digit studentId to binary digit =>10001100110110
